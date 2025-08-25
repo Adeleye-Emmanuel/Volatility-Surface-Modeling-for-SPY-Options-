@@ -1,4 +1,4 @@
-# 🧠 Volatility Surface Modeling for SPY Options 
+# Volatility Surface Modeling for SPY Options 
 
 This project develops an end-to-end framework for modeling the **implied volatility surface** of SPY (S&P 500 ETF) options using both **parametric** and **non-parametric (machine learning)** methods.
 
